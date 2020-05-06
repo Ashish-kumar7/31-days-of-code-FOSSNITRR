@@ -1,0 +1,5 @@
+1.https://leetcode.com/problems/first-unique-character-in-a-string/
+2.https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0
+3.https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair/0
+4.https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0
+
