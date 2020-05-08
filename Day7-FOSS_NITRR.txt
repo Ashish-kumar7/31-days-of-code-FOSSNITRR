@@ -1,0 +1,4 @@
+1.https://www.interviewbit.com/problems/reverse-link-list-ii/
+2.CodeGladiator PowerPuffGIrls
+3.https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck/0
+4.https://practice.geeksforgeeks.org/problems/maximum-product-cutting/0/
