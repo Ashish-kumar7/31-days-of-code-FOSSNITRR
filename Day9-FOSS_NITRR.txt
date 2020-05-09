@@ -1,0 +1,5 @@
+1.https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0
+2.https://practice.geeksforgeeks.org/problems/number-of-ways/0
+3.https://practice.geeksforgeeks.org/problems/max-possible-amount/0
+4.https://leetcode.com/problems/swap-nodes-in-pairs/
+5.https://leetcode.com/problems/next-greater-node-in-linked-list/
