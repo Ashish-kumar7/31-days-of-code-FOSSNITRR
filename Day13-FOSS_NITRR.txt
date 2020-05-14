@@ -1,0 +1,6 @@
+1.https://leetcode.com/problems/wildcard-matching/
+2. https://practice.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string/0
+3.https://practice.geeksforgeeks.org/problems/path-in-matrix/0
+4.https://practice.geeksforgeeks.org/problems/count-of-palindromic-substrings-in-an-index-range/0
+5.https://leetcode.com/problems/palindromic-substrings/
+
