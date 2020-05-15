@@ -1,0 +1,5 @@
+1.practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed/0
+2.https://practice.geeksforgeeks.org/problems/non-repeating-element/0
+3.https://practice.geeksforgeeks.org/problems/match-specific-pattern/1
+4.https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1
+5.https://practice.geeksforgeeks.org/problems/match-specific-pattern/1
