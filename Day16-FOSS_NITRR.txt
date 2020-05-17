@@ -1,0 +1,6 @@
+
+1.https://www.interviewbit.com/problems/sort-by-color/
+2.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/
+3.https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0
+4.https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0
+5.https://practice.geeksforgeeks.org/problems/non-repeating-character/0
