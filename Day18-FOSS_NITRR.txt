@@ -1,0 +1,11 @@
+1.practice.geeksforgeeks.org/problems/k-anagrams-1/0
+2.https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0
+3.https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names/0
+4.https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/
+5.https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0
+6.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/
+7.https://practice.geeksforgeeks.org/problems/special-numbers/0
+8.https://practice.geeksforgeeks.org/problems/special-matrix/0
+9.https://practice.geeksforgeeks.org/problems/gold-mine-problem/0
+10.https://practice.geeksforgeeks.org/problems/two-water-jug-problem/0
+11.https://www.interviewbit.com/problems/wave-array/
