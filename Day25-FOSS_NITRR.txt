@@ -1,0 +1,16 @@
+1.https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0
+2.https://practice.geeksforgeeks.org/problems/handshakes/0
+3.https://practice.geeksforgeeks.org/problems/in-first-but-second/0
+4.https://practice.geeksforgeeks.org/problems/top-k-numbers/0
+5.https://practice.geeksforgeeks.org/problems/nth-catalan-number/0
+6.https://www.interviewbit.com/problems/copy-list/
+7.https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
+8.https://leetcode.com/problems/interval-list-intersections/submissions/
+9.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/
+10.https://practice.geeksforgeeks.org/problems/champagne-overflow/0
+11.https://vjudge.net/contest/375163A#status
+12.https://vjudge.net/contest/375163B#status
+13.https://vjudge.net/contest/375163C#status
+14.https://vjudge.net/contest/375163D#status
+15.https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed/0
+16.https://practice.geeksforgeeks.org/problems/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum/0
