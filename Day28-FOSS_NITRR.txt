@@ -1,0 +1,18 @@
+1.https://www.hackerrank.com/challenges/strange-code/problem
+2.https://www.hackerrank.com/challenges/cavity-map/problem
+3.https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
+4.https://www.interviewbit.com/problems/distinct-numbers-in-window/
+5.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/
+6.leetcode 333
+7.https://www.interviewbit.com/problems/merge-k-sorted-lists/
+8.https://leetcode.com/problems/merge-k-sorted-lists/
+9.https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/
+10.https://practice.geeksforgeeks.org/problems/k-palindrome/1
+11.https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1
+12.https://practice.geeksforgeeks.org/problems/length-of-longest-subarray/0
+13.https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem
+14.https://www.hackerrank.com/challenges/post-transition/problem
+15.https://www.hackerrank.com/challenges/structuring-the-document/problem
+16.https://www.hackerrank.com/challenges/inheritance-introduction/problem
+17.https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
+18.https://www.hackerrank.com/challenges/hotel-prices/problem
