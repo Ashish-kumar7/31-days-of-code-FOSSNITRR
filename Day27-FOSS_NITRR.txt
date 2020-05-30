@@ -1,0 +1,21 @@
+1.https://leetcode.com/problems/edit-distance/submissions/
+2.https://leetcode.com/problems/delete-operation-for-two-strings/submissions/
+3.https://practice.geeksforgeeks.org/problems/edit-distance/0
+4.https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+5.https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0
+6.https://www.interviewbit.com/problems/points-on-the-straight-line/
+7.https://leetcode.com/problems/longest-palindromic-subsequence/
+8.https://leetcode.com/problems/longest-palindromic-substring/submissions/
+9.https://leetcode.com/problems/palindromic-substrings/submissions/
+10.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/
+11.leetcode 886
+12.https://www.hackerrank.com/challenges/is-binary-search-tree/problem
+13.https://www.hackerrank.com/challenges/largest-rectangle/problem
+14.https://www.interviewbit.com/problems/magician-and-chocolates/
+15.https://www.hackerrank.com/challenges/simple-text-editor/problem
+17.https://practice.geeksforgeeks.org/problems/n-queen-problem/0
+18.https://www.interviewbit.com/problems/distinct-numbers-in-window/
+19.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/
+20.leetcode 338
+
+
