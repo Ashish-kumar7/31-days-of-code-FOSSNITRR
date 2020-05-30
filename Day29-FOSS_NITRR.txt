@@ -1,0 +1,15 @@
+1.https://www.hackerrank.com/challenges/sock-merchant/problem
+2.https://www.hackerrank.com/challenges/drawing-book/problem
+3.https://www.hackerrank.com/challenges/counting-valleys/problem
+4.https://www.hackerrank.com/challenges/electronics-shop/problem
+5.https://www.hackerrank.com/challenges/attending-workshops/problem
+6.leetcode 383
+7.https://www.interviewbit.com/problems/merge-k-sorted-lists/
+8.https://leetcode.com/problems/merge-k-sorted-lists/
+9.https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/
+10.leetcode 348
+11.leetcode 651
+12.https://practice.geeksforgeeks.org/problems/length-of-longest-subarray/0
+13.https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
+14.https://www.interviewbit.com/problems/distinct-numbers-in-window/
+15.https://www.hackerrank.com/challenges/hotel-prices/problem
