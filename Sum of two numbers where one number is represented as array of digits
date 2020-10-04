@@ -1,0 +1,77 @@
+// C++ implementation of the approach 
+#include <bits/stdc++.h> 
+using namespace std; 
+
+// Function to return the vector containing the answer 
+vector<int> addToArrayForm(vector<int>& A, int K) 
+{ 
+
+	// Vector v is to store each digits sum 
+	// and vector ans is to store the answer 
+	vector<int> v, ans; 
+
+	// No carry in the beginning 
+	int rem = 0; 
+
+	int i = 0; 
+
+	// Start loop from the end 
+	// and take element one by one 
+	for (i = A.size() - 1; i >= 0; i--) { 
+
+		// Array index and last digit of number 
+		int my = A[i] + K % 10 + rem; 
+		if (my > 9) { 
+
+			// Maintain carry of summation 
+			rem = 1; 
+
+			// Push the digit value into the array 
+			v.push_back(my % 10); 
+		} 
+		else { 
+			v.push_back(my); 
+			rem = 0; 
+		} 
+		K = K / 10; 
+	} 
+
+	// K value is greater then 0 
+	while (K > 0) { 
+
+		// Push digits of K one by one in the array 
+		int my = K % 10 + rem; 
+		v.push_back(my % 10); 
+
+		// Also maintain carry with summation 
+		if (my / 10 > 0) 
+			rem = 1; 
+		else
+			rem = 0; 
+		K = K / 10; 
+	} 
+
+	if (rem > 0) 
+		v.push_back(rem); 
+
+	// Reverse the elements of vector v 
+	// and store it in vector ans 
+	for (int i = v.size() - 1; i >= 0; i--) 
+		ans.push_back(v[i]); 
+
+	return ans; 
+} 
+
+// Driver code 
+int main() 
+{ 
+	vector<int> A{ 2, 7, 4 }; 
+	int K = 181; 
+	vector<int> ans = addToArrayForm(A, K); 
+
+	// Print the answer 
+	for (int i = 0; i < ans.size(); i++) 
+		cout << ans[i]; 
+
+	return 0; 
+} 
